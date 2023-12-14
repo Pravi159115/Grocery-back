@@ -1,0 +1,9 @@
+POST http://localhost:3001/app/userinfo
+Content-Type: application/json
+
+{
+    "name" :"Praveen",
+    "email" :"pk@gmail.com",
+    "number" :"8778879008",
+    "address" :"Madhavaram"
+}
